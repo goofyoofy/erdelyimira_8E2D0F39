@@ -1,0 +1,24 @@
+table{
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 2px solid #000000;
+    padding-left: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 14px;
+}
+
+th{
+    padding: 12px;
+    text-align: left;
+    background-color: #17505e;
+    color: aliceblue;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
