@@ -7,4 +7,6 @@
 
    A css-sel nem sokat foglalkoztam mert nem volt idom ra egyaltalan, javascript fuggveny egyenlore eleg konnyu csak bekerdezi hogy hany napra szeretne jelentkezni es majd annyiszor bekerdezi hogy mely kiallitasok ezek
 
+   csinaltam egy jo par beolvasast hogy megtudjam az infokat amik kellenek es meg egy maximum fuggvenyt kell csinalnom meg egy atlagolast
+
    
